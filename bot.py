@@ -10,7 +10,7 @@ from telegram.ext import (
 )
 
 # ================= CONFIG =================
-TOKEN = os.getenv("8523195504:AAFXb9Q_1R-pdbk_K1DDlERvMw4Au8sI3a8")  # Render ENV dan olinadi
+TOKEN = 8523195504:AAFXb9Q_1R-pdbk_K1DDlERvMw4Au8sI3a8  # Render ENV dan olinadi
 ADMIN_ID = 5667085885 # <-- BU YERGA O'Z TELEGRAM ID INGIZNI YOZING
 
 DB_NAME = "users.db"
