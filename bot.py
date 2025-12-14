@@ -11,7 +11,7 @@ from telegram.ext import (
 
 # ================= CONFIG =================
 TOKEN = os.getenv("BOT_TOKEN")  # Render ENV dan olinadi
-ADMIN_ID = 123456789  # <-- BU YERGA O'Z TELEGRAM ID INGIZNI YOZING
+ADMIN_ID = 5667085885 # <-- BU YERGA O'Z TELEGRAM ID INGIZNI YOZING
 
 DB_NAME = "users.db"
 
